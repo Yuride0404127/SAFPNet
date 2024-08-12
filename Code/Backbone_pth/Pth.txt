@@ -1,6 +1,7 @@
 The pre-trained weights for the backbone shunted can be obtained from the following link: 
-[Goolge Drive] https://drive.google.com/drive/folders/15iZKXFT7apjUSoN2WUMAbb0tvJgyh3YP?usp=sharing
-[BaiduNetdisk (code:hazr)] https://pan.baidu.com/s/1a9nVWpw2SzP0csCBCF8DNw
+[Goolge Drive] https://drive.google.com/file/d/1rXdBbewuBIw5nOPdrJTlvbrqLudCqXuN/view?usp=drive_link
+[BaiduNetdisk (code:uyxh)] https://pan.baidu.com/s/12mI-tBTEj820cydxtJQmWQ?pwd=uyxh 
+
 
 The pre-trained weights for the backbone Dformer can be obtained from the following link: 
 [Goolge Drive] https://drive.google.com/drive/folders/1YuW7qUtnguUFkhC-sfqGySrerjK0rZJX?usp=sharing
