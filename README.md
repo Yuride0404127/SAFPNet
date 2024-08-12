@@ -10,20 +10,20 @@ This project provides the code and results for SAFPNet: 'Super-pixel Auxiliary F
 
 # Architecture and Details
 ## The model's structure is as follows：
-![SAFPNet](https://github.com/Yuride0404127/SAFPNet/Picture/SAFPNet.jpg)
+![SAFPNet](https://github.com/Yuride0404127/SAFPNet/blob/main/Picture/SAFPNet.jpg)
 
 ## The pseudo code for our training algorithm is shown below:
-![Algorithm](https://github.com/Yuride0404127/SAFPNet/Picture/Algorithm.png)
+![Algorithm](https://github.com/Yuride0404127/SAFPNet/blob/main/Picture/Algorithm.png)
 
 # Results
 ## Results in RSDD
-![Table1](https://github.com/Yuride0404127/SAFPNet/Picture/Table1.png)
+![Table1](https://github.com/Yuride0404127/SAFPNet/blob/main/Picture/Table1.png)
 
 ## Results in RGBD-SOD
-![Table2](https://github.com/Yuride0404127/SAFPNet/Picture/Table2.png)
+![Table2](https://github.com/Yuride0404127/SAFPNet/blob/main/Picture/Table2.png)
 
 ## PR-surves
-![PR-surves](https://github.com/Yuride0404127/SAFPNet/Picture/PR-surves.png)
+![PR-surves](https://github.com/Yuride0404127/SAFPNet/blob/main/Picture/PR-surves.png)
 
 # Training & Testing
 
