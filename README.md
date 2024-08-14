@@ -23,7 +23,7 @@ This project provides the code and results for SAFPNet: 'Super-pixel Auxiliary F
 ![Table2](https://github.com/Yuride0404127/SAFPNet/blob/main/Picture/Table2.png)
 
 ## PR-surves
-![PR-curves](https://github.com/Yuride0404127/SAFPNet/blob/main/Picture/PR-curves.png)
+![PR-curves](https://github.com/Yuride0404127/SAFPNet/blob/main/Picture/PR-curves.bmp)
 
 # Training & Testing
 
